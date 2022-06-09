@@ -15,3 +15,4 @@ test ('testing employee constructor', () => {
     test('testing getEmail()', () => {
         expect (employee.getEmail()).toBe('sashacodes@codes.com');
     });
+    
